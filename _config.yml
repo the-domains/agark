@@ -12,3 +12,7 @@ color:
     - '#A7C520'
     - '#493F0B'
 name: AGARK
+navigation:
+  - name: TAGUNG
+    id: cf8bbc5b-b1ab-49ac-a5c8-8219a185844f
+    type: content
