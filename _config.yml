@@ -13,9 +13,6 @@ color:
     - '#493F0B'
 name: AGARK
 navigation:
-  - name: TAGUNG
-    id: cf8bbc5b-b1ab-49ac-a5c8-8219a185844f
-    type: content
   - name: Über uns
     id: d3bc2a69-2b7a-437a-994a-829e3b2e65cb
     type: content
