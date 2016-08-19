@@ -16,3 +16,6 @@ navigation:
   - name: Über uns
     id: d3bc2a69-2b7a-437a-994a-829e3b2e65cb
     type: content
+  - name: Ingo und Waltraud Pauler Fonds
+    id: 8eb7f241-d4ce-427f-b0b8-22de84cbe9df
+    type: content
