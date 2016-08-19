@@ -1,34 +1,33 @@
 ---
 description: >-
-  Ingo und Waltraud Pauler Fonds   Was ist der Ingo und Waltraud Pauler
-  Fonds?Der AG ARK-Forschungsfonds, benannt nach dem Begründer der AG ARK Dipl.
-  Ing. Ingo Pauler (†), langjährigem ersten Vorsitzenden und Ehrenmitglied der
-  DGHT a.D. und seiner Frau, fördert Forschungsprojekte, die die Amphibien- und
+  Ingo und Waltraud Pauler FondsWas ist der Ingo und Waltraud Pauler Fonds?Der
+  AG ARK-Forschungsfonds, benannt nach dem Begründer der AG ARK Dipl. Ing. Ingo
+  Pauler (†), langjährigem ersten Vorsitzenden und Ehrenmitglied der DGHT a.D.
+  und seiner Frau, fördert Forschungsprojekte, die die Amphibien- und
   Reptilienmedizin weiterführen, Grundlagenforschung sowie tiermedizinische
   Forschungsprojekte, die zur Optimierung bestehender Therapien und Techniken
-  führen. Der Fonds wird aus Rücklagen und Gewinnen der AG ARK sowie Spenden
-  bestückt.  Spendenkonto: AG ARK, Santander Bank Hamburg, BLZ 50033300,
+  führen.Der Fonds wird aus Rücklagen und Gewinnen der AG ARK sowie Spenden
+  bestückt.Spendenkonto: AG ARK, Santander Bank Hamburg, BLZ 50033300,
   Kontonummer 2974838500 (IBAN: DE05500333002974838500, BIC: SCFBDE33XXX)
   Verwendungszweck: IWP FondsWer kann die Förderung beantragen und wie?Die
   Beantragung von Fördermitteln steht DGHT/AG ARK-Mitgliedern offen und erfolgt
-  gemäß der Kommissionsordung des Ingo und Waltraud Pauler-Fonds Welche Projekte
+  gemäß derKommissionsordung des Ingo und Waltraud Pauler-FondsWelche Projekte
   wurden/werden bisher gefördert?2012Molekulare Identifizierung häufig
   vorkommender Flagellatenarten aus Kotproben von Landschildkröten und
-  BartagamenNikola Pantchev, IDEXX Vet Med Labor GmbH Dr. Barbara Richter,
+  BartagamenNikola Pantchev, IDEXX Vet Med Labor GmbHDr. Barbara Richter,
   Universität Wien
-dateModified: '2016-08-19T21:15:38.341Z'
-datePublished: '2016-08-19T21:15:58.115Z'
+dateModified: '2016-08-19T21:18:38.773Z'
+datePublished: '2016-08-19T21:18:39.655Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-19-ingo-und-waltraud-pauler-fonds-was-ist-der-ingo-und-waltra.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: ingo-und-waltraud-pauler-fondswas-ist-der-ingo-und-waltraud/index.html
+_type: Blurb
 
 ---
 Ingo und Waltraud Pauler Fonds  
